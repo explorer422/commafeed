@@ -6,7 +6,7 @@ Google Reader inspired self-hosted RSS reader, based on Dropwizard and AngularJS
 CommaFeed is now considered feature-complete and is in maintenance mode.
 
 ## Screen Shot
-
+testing only
 ## Related open-source projects
 
 
